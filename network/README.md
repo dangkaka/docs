@@ -3,6 +3,7 @@
 #### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 
 TL;DR
+
 | Layer | Protocol data unit | Function |
 | ---- | ---- | ---- |
 | Physical |  Bit | Transmission and reception of raw bit streams over a physical medium |
