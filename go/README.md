@@ -1,4 +1,4 @@
-# Go
+# Go (Golang)
 
 ### Avro 
 https://avro.apache.org/ 
