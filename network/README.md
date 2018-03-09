@@ -2,7 +2,7 @@
 
 #### [OSI Model](https://en.wikipedia.org/wiki/OSI_model)
 
-TL;DR
+TL;DR The Open Systems Interconnection model (OSI model) is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. There are 7 layers
 
 | Layer | Protocol data unit | Function | Examples |
 | ---- | ---- | ---- | ---- |
