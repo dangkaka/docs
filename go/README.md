@@ -7,6 +7,7 @@
 1. [Accept interfaces, return structs](https://mycodesmells.com/post/accept-interfaces-return-struct-in-go)
 1. [Organising Database Access :+1:](https://www.alexedwards.net/blog/organising-database-access)
 1. [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+1. :star: [Writing Testable Code in Go (golang)](https://relistan.com/writing-testable-apps-in-go)
 ### Avro 
 https://avro.apache.org/ 
 
