@@ -1,5 +1,6 @@
 # Go (Golang)
 
+1. [Effective Go](https://golang.org/doc/effective_go.html)
 1. [Using Go as a scripting language in Linux](https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux/)
 1. [Go best practices 2016](https://peter.bourgon.org/go-best-practices-2016/)
 1. [Error handling best practices](https://medium.com/@sebdah/go-best-practices-error-handling-2d15e1f0c5ee)
